@@ -1,3 +1,3 @@
-# Veil Privacy Policy
+# Noiseless Privacy Policy
 
-This repository hosts the Veil app privacy policy via GitHub Pages.
+This repository hosts the Noiseless privacy policy via GitHub Pages.
